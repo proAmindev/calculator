@@ -1,26 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/calc-app.png)
+# Calculator
 
-## Available Scripts
+I used react js and it was for me first experince and it was so tired and i watched video from youtube and learned more things 
 
-In the project directory, you can run:
 
-### `yarn install`
+## Acknowledgements
 
-Instal All dependencies in this project
+ - [Build a Calculator App in React JS](https://youtu.be/o89bhL-S6g8)
 
-### `yarn start`
+## Authors
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [@proAmindev](https://www.github.com/proamindev)
 
-### Link
 
-Reactjs: https://reactjs.org/docs/create-a-new-react-app.html
-react-textfit: https://www.npmjs.com/package/react-textfit
-box-shadow: https://box-shadow.dev/
+## Demo
 
-### Video Tutorial
+https://master.d35nrs45k54u5d.amplifyapp.com/
 
-You can see my youtube video for this project in [here](https://youtu.be/o89bhL-S6g8)
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm start
+```
+
